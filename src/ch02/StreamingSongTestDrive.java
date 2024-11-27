@@ -1,3 +1,5 @@
+package ch02;
+
 class StreamingSongTestDrive {
     public static void main(String[] args) {
 

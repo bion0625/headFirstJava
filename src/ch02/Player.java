@@ -1,3 +1,5 @@
+package ch02;
+
 public class Player{
     int number = 0;
 

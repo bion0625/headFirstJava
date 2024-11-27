@@ -1,3 +1,5 @@
+package ch01;
+
 public class Loopy {
     public static void main(String[] args) {
         int x = 1;

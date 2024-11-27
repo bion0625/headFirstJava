@@ -1,3 +1,5 @@
+package ch02;
+
 class DrumKitTestDriven{
     public static void main(String[] args) {
         DrumKit d = new DrumKit();

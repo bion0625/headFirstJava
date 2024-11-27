@@ -1,3 +1,5 @@
+package ch02;
+
 class Episode{
 
     int seriesNumber;

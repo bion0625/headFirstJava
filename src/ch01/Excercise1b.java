@@ -1,3 +1,5 @@
+package ch01;
+
 public class Excercise1b{
     public static void main(String[] args) {
         int x = 5;

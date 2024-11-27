@@ -1,3 +1,5 @@
+package ch02;
+
 class DrumKit{
     boolean topHat = true;
     boolean snare = true;

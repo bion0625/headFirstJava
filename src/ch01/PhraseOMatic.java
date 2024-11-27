@@ -1,3 +1,5 @@
+package ch01;
+
 public class PhraseOMatic{
     public static void main(String[] args) {
         String[] wordListOne = {"agnostic", "opinionated", "voice activated", "haptically driven", 
